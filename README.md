@@ -8,13 +8,19 @@ Node will need to be installed to run these commands. The instructions for node 
 `git clone https://github.com/IEccles/ecommerce.git`
 
 Once cloned cd into the repo:
+
 `cd ecommerce`
 
 Install dependencies:
+
 `npm i`
 
 Run the dev version on your machine (this will automatically create the database and a login for you)
+
 Windows:
+
 `npm run dev:win`
+
 Linux:
+
 `npm run dev:linux`
